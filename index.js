@@ -22,7 +22,7 @@ function johnLennonFacts(factsarray) {
 function iLoveTheBeatles(num) {
   var new_array = []
   do {
-    new_array.push("I love the Beatles")
+    new_array.push("I love the Beatles!")
     num += 1
   } while(num < 15)
   return new_array
